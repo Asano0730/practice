@@ -1,1 +1,5 @@
 git init myproj
+cd myproj
+echo foobar > foo
+git add foo
+git commit -m "initial commit"
